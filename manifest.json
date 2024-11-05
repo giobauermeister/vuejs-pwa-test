@@ -1,0 +1,12 @@
+{
+    "name": "e-Lainer Games",
+    "display": "standalone",
+    "start_url": "/?standalone=true",
+    "icons": [
+        {
+        "src": "src/assets/logo_yellow.png",
+        "type": "image/png",
+        "sizes": "512x512"
+        }
+    ]
+}
